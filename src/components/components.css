@@ -1,0 +1,59 @@
+#logo {
+    width: 3.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;;
+}
+
+.nav {
+    font-family: Calibri;
+    font-size: 5rem;
+    background-color: rgb(255, 255, 184);
+    min-height: 7rem;
+    align-items: center;
+}
+
+.nav-bottom {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-btns{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-btn {
+    padding: 0.5rem;
+    background-color: rgb(255, 221, 72);
+    transition-duration: .2s;
+}
+
+.nav-btn path {
+    transition-duration: .2s;
+    cursor: pointer;
+}
+
+.nav-btn:hover path{
+    fill: black;
+}
+
+.thx {
+    position: absolute;
+    bottom: 0;
+}
+
+.red {
+    background-color: #f99;
+}
+
+.yellow {
+    background-color: #ff9;
+}
+
+.green {
+    background-color: #9f9;
+}
