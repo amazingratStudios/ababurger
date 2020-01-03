@@ -12,8 +12,8 @@ function NavBar() {
         </span>
         <div className="nav-bottom">
             <div className="nav-btns">
-                <Link to="/"><House width={3} fill="#fff" className="nav-btn"/></Link>
-                <Link to="/order"><ChefHat width={3} fill="#fff" className="nav-btn"/></Link>
+                <Link to="/ababurger/"><House width={3} fill="#fff" className="nav-btn"/></Link>
+                <Link to="/ababurger/order"><ChefHat width={3} fill="#fff" className="nav-btn"/></Link>
             </div>
         </div>
     </div>

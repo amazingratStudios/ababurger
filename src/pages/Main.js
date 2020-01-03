@@ -13,7 +13,7 @@ function Main() {
         <p className="left">"כל הרואה בעצמו ישראלי- מחויב לאכול ב<b>אבא בורגר</b>"     <span className="quote">גולדה מאיר</span><br /><br />
         למה אתם מחכים?<br /><br /><b>הזמינו עכשיו!</b></p>
         <br /><br />
-        <a href="/gallery"><button style={{marginTop:"2.5rem"}}>כניסה לגלרית התמונות</button></a>
+        <a href="/ababurger/gallery"><button style={{marginTop:"2.5rem"}}>כניסה לגלרית התמונות</button></a>
     </div>
   );
 }
