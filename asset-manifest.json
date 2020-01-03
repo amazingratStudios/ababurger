@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ababurger/static/css/main.46ca4ce2.chunk.css",
-    "main.js": "/ababurger/static/js/main.39a317fb.chunk.js",
-    "main.js.map": "/ababurger/static/js/main.39a317fb.chunk.js.map",
+    "main.js": "/ababurger/static/js/main.c39e4aa5.chunk.js",
+    "main.js.map": "/ababurger/static/js/main.c39e4aa5.chunk.js.map",
     "runtime-main.js": "/ababurger/static/js/runtime-main.85266312.js",
     "runtime-main.js.map": "/ababurger/static/js/runtime-main.85266312.js.map",
     "static/js/2.8a7117f9.chunk.js": "/ababurger/static/js/2.8a7117f9.chunk.js",
     "static/js/2.8a7117f9.chunk.js.map": "/ababurger/static/js/2.8a7117f9.chunk.js.map",
     "index.html": "/ababurger/index.html",
-    "precache-manifest.5646f717e12d6ae96e4dd5df8ebdc930.js": "/ababurger/precache-manifest.5646f717e12d6ae96e4dd5df8ebdc930.js",
+    "precache-manifest.284daf8099f5ca070b223408ddf448c8.js": "/ababurger/precache-manifest.284daf8099f5ca070b223408ddf448c8.js",
     "service-worker.js": "/ababurger/service-worker.js",
     "static/css/main.46ca4ce2.chunk.css.map": "/ababurger/static/css/main.46ca4ce2.chunk.css.map",
     "static/js/2.8a7117f9.chunk.js.LICENSE": "/ababurger/static/js/2.8a7117f9.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.85266312.js",
     "static/js/2.8a7117f9.chunk.js",
     "static/css/main.46ca4ce2.chunk.css",
-    "static/js/main.39a317fb.chunk.js"
+    "static/js/main.c39e4aa5.chunk.js"
   ]
 }

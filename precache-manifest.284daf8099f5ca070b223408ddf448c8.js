@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee9ef208528cf4c494572e35fef3eb55",
+    "revision": "b62ed4f55e6b8869b3786e9570928863",
     "url": "/ababurger/index.html"
   },
   {
-    "revision": "9f488c88a77cad4c0d43",
+    "revision": "c4f979886575c88816f9",
     "url": "/ababurger/static/css/main.46ca4ce2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ababurger/static/js/2.8a7117f9.chunk.js.LICENSE"
   },
   {
-    "revision": "9f488c88a77cad4c0d43",
-    "url": "/ababurger/static/js/main.39a317fb.chunk.js"
+    "revision": "c4f979886575c88816f9",
+    "url": "/ababurger/static/js/main.c39e4aa5.chunk.js"
   },
   {
     "revision": "fdeaa08c36ae0c26123d",
