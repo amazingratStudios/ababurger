@@ -11,7 +11,7 @@ import Gallery from './pages/Gallery';
 
 function App() {
   return (
-    <Router>
+    <Router source="/ababurger">
       <div className="App">
         <NavBar/>
         <Switch>
