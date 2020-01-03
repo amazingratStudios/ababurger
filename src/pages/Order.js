@@ -74,7 +74,7 @@ export default class OrderComp extends Component {
                 console.log("registration error", error);
             });
         event.preventDefault();
-        window.location.href = "/";
+        window.location.href = "/ababurger/";
 
     }
 
