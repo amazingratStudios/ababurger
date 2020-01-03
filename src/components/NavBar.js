@@ -8,7 +8,7 @@ function NavBar() {
   return (
     <div className="nav">
         <span>
-            אבא<Link to="/admin"><img src={process.env.PUBLIC_URL + "./img/logo.png"} id="logo" alt="logo"/></Link>בורגר
+            אבא<Link to="/ababurger/admin"><img src={process.env.PUBLIC_URL + "./img/logo.png"} id="logo" alt="logo"/></Link>בורגר
         </span>
         <div className="nav-bottom">
             <div className="nav-btns">
